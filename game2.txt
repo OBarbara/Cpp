@@ -1,0 +1,13 @@
+Next: White
+*:g8
+o:f7
+o:a6
+x:g6
+x:f5
+o:c4
+o:e4
+x:d3
+x:h3
+o:b1
+o:f1
+o:h1
