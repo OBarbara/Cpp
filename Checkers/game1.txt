@@ -1,0 +1,13 @@
+Next: Red
+x:a8
+x:c8
+x:e8
+x:g8
+o:g6
+x:b5
+x:f3
+o:e2
+o:b1
+o:d1
+o:f1
+o:h1
